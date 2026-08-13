@@ -1,4 +1,4 @@
-### Hola, soy Diego 👋
+### Hola, soy DIEGO FERNANDO LEÓN ARIZA 👋
 
 Ingeniero de Sistemas y desarrollador Fullstack Junior. Trabajo principalmente con
 **Java Spring Boot** en el backend y **React** en el frontend, y me interesa entender
